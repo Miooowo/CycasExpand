@@ -1,0 +1,11 @@
+{
+	"VISTA_DOLL.title": "Vista Doll",
+	"VISTA_DOLL.flavor": "Be rich, i will be rich...",
+	"VISTA_DOLL.description": "Store discount [blue]30%[/blue]. When you enter the store, recover [blue]1[/blue] HP per [gold]10[/gold] gold. Gold from defeating enemies is doubled.",
+	"WXW_DOLL.title": "Wang Xiaowu Doll",
+	"WXW_DOLL.flavor": "I'm not a god.",
+	"WXW_DOLL.description": "When you would die, heal [green]1[/green] HP and gain [blue]999[/blue] block. You gain [blue]99[/blue] block per turn.(work once per combat)",
+	"BAIZEALER_DOLL.title": "Baizealer Doll",
+	"BAIZEALER_DOLL.flavor": "The stars will shine with you.",
+	"BAIZEALER_DOLL.description": "At the start of each combat, gain [blue]6[/blue] Thorns. Whenever you are attacked, deal [red]1[/red] damage to a random enemy [blue]6[/blue] times."
+}

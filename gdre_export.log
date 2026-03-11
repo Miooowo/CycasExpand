@@ -1,0 +1,45 @@
+GDRE Tools v2.4.0
+Windows 10.0.19045, NVIDIA GeForce GTX 1050 Ti, vulkan
+Opening file: F:\SteamLibrary\steamapps\common\Slay the Spire 2\mods\CycasExpand - 副本\CycasExpand.pck
+Guessing bytecode revision from engine version: 4.5.1 (rev 0xebc36a7)
+Loaded 6 imported files
+ERROR: Could not load dotnet assembly: Assembly file 'CycasExpand.dll' not found in any directory in F:\SteamLibrary\steamapps\common\Slay the Spire 2\mods\CycasExpand - 副本
+   at: GDRESettings::load_project_dotnet_assembly (modules\gdsdecomp\utility\gdre_settings.cpp:2666)
+WARNING: Could not load C# assembly, not able to decompile C# scripts...
+   at: GDRESettings::_project_post_load (modules\gdsdecomp\utility\gdre_settings.cpp:796)
+Detected Engine Version: 4.5.1
+Detected Bytecode Revision: 4.5.0-stable (ebc36a7)
+Verified 28 files, no errors detected!
+ERROR: Failed to load assembly F:/SteamLibrary/steamapps/common/Slay the Spire 2/mods/CycasExpand - 副本/CycasExpand.dll (Not a valid .NET assembly?)
+   at: GodotMonoDecompWrapper::create (modules\gdsdecomp\utility\godot_mono_decomp_wrapper.cpp:15)
+ERROR: Failed to load assembly F:/SteamLibrary/steamapps/common/Slay the Spire 2/mods/CycasExpand - 副本/CycasExpand.dll (Not a valid .NET assembly?)
+   at: GDRESettings::reload_dotnet_assembly (modules\gdsdecomp\utility\gdre_settings.cpp:2705)
+Extracted 28 files, no errors detected!
+Saved project config.
+
+
+********************************EXPORT REPORT********************************
+
+Totals:                                 
+Decompiled scripts:                     0
+Failed scripts:                         5
+Imported resources for export session:  6
+Successfully converted:                 6
+Lossy:                                  1
+Rewrote metadata:                       6
+Non-importable conversions:             0
+Not converted:                          0
+Failed conversions:                     0
+-------------
+
+
+
+------------------------------------------------------------------------------------
+
+Use Godot editor version 4.5.1 (Mono) to edit the project.
+Note: the project may be using a custom version of Godot. Detection for this has not been implemented yet.
+If you find that you have many non-import errors upon opening the project 
+(i.e. scripts or shaders have many errors), use the original game's binary as the export template.
+
+*******************************************************************************
+
