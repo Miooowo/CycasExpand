@@ -1,5 +1,8 @@
 {
 	"REAPER.title": "Reaper",
 	"REAPER.description": "Deal {Damage:diff()} damage to all enemies.\nUnblocked damage heals you.",
-	"REAPER.flavor": "One sweep is enough to reap them all."
+	"REAPER.flavor": "One sweep is enough to reap them all.",
+	"DIE_DIE_DIE.title": "Die Die Die",
+	"DIE_DIE_DIE.description": "Deal {Damage:diff()} damage to ALL enemies.",
+	"DIE_DIE_DIE.flavor": ""
 }

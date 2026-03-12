@@ -12,6 +12,7 @@
 	</PropertyGroup>
 
 	<ItemGroup>
+		<FrameworkReference Include="Microsoft.NETCore.App" />
 		<Reference Include="sts2">
 			<HintPath>$(Sts2DataDir)\sts2.dll</HintPath>
 			<Private>false</Private>

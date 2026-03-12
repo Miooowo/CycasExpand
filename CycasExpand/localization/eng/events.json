@@ -1,5 +1,9 @@
 {
 	"DOLL_ROOM.pages.VISTA_DOLL.description": "You pick up an exquisite doll; it seems to whisper. [orange][sine]\"Take me, and wealth and fortune shall follow...\"[/sine][/orange]",
 	"OTHER_DOLL_ROOM.title": "Doll Room",
-	"OTHER_DOLL_ROOM.pages.INITIAL.description": "You step into a hidden chamber...\n\nIt is filled with dolls; one of them catches your eye."
+	"OTHER_DOLL_ROOM.pages.INITIAL.description": "You step into a hidden chamber...\n\nIt is filled with dolls; one of them catches your eye.",
+	"CYCAS_EXPAND_LEAVE.title": "Leave",
+	"CYCAS_EXPAND_LEAVE.description": "Lose [red]3[/red] HP and leave without gaining anything.",
+	"CYCAS_NEOW_SKIP_LIFE.title": "Skip Life Button",
+	"CYCAS_NEOW_SKIP_LIFE.description": "Lose [red]15[/red] max HP. Allow you to [orange]skip life[/orange]."
 }

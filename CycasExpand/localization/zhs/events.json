@@ -1,5 +1,9 @@
 {
 	"DOLL_ROOM.pages.VISTA_DOLL.description": "你拾起一尊精致的玩偶，仿佛能听见它在低语。[orange][sine]“带上我，财富与好运都会随你而来……”[/sine][/orange]",
 	"OTHER_DOLL_ROOM.title": "玩偶房",
-	"OTHER_DOLL_ROOM.pages.INITIAL.description": "你走进了一间隐藏的密室……\n\n这里堆满了琳琅满目的玩偶，其中一尊格外引人注目。"
+	"OTHER_DOLL_ROOM.pages.INITIAL.description": "你走进了一间隐藏的密室……\n\n这里堆满了琳琅满目的玩偶，其中一尊格外引人注目。",
+	"CYCAS_EXPAND_LEAVE.title": "离开",
+	"CYCAS_EXPAND_LEAVE.description": "失去[red]3[/red]点生命。跳过事件。",
+	"CYCAS_NEOW_SKIP_LIFE.title": "跳过人生的按钮",
+	"CYCAS_NEOW_SKIP_LIFE.description": "失去[red]15[/red]点生命上限。使你能够[orange]跳过人生[/orange]。"
 }

@@ -20,8 +20,10 @@ public class Entry
 		_harmony.PatchAll();
 		Log.Debug("Mod initialized!");
 		ModHelper.AddModelToPool(typeof(IroncladCardPool), typeof(Reaper));
+		ModHelper.AddModelToPool(typeof(SilentCardPool), typeof(DieDieDie));
 		ModHelper.AddModelToPool<SharedRelicPool, VistaDoll>();
 		ModHelper.AddModelToPool<SharedRelicPool, wxwDoll>();
 		ModHelper.AddModelToPool<SharedRelicPool, BaizealerDoll>();
+		ModHelper.AddModelToPool<SharedRelicPool, SkipLifeButton>();
 	}
 }

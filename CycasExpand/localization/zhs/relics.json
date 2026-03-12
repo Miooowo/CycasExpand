@@ -7,5 +7,8 @@
 	"WXW_DOLL.description": "当你要被杀死时，免死并回复生命至[green]1[/green]点，立即获得[blue]999[/blue]点格挡，本场战斗中每回合开始获得[blue]99[/blue]点格挡（仅能生效一次）",
 	"BAIZEALER_DOLL.title": "絔狼玩偶",
 	"BAIZEALER_DOLL.flavor": "星辰们会随你闪耀。",
-	"BAIZEALER_DOLL.description": "每场战斗开始时，获得[blue]6[/blue]点荆棘。每受到一次攻击，随机对敌人造成[red]1[/red]点伤害[blue]6[/blue]次。"
+	"BAIZEALER_DOLL.description": "每场战斗开始时，获得[blue]6[/blue]点荆棘。每受到一次攻击，随机对敌人造成[red]1[/red]点伤害[blue]6[/blue]次。",
+	"SKIP_LIFE_BUTTON.title": "跳过人生的按钮",
+	"SKIP_LIFE_BUTTON.flavor": "跳过原神就是跳过人生。",
+	"SKIP_LIFE_BUTTON.description": "你可以跳过任意事件，可是代价是什么呢？"
 }

@@ -1,5 +1,8 @@
 {
 	"REAPER.title": "死亡收割",
 	"REAPER.description": "对所有敌人造成{Damage:diff()}点伤害。\n未被格挡的伤害将回复你的生命。",
-	"REAPER.flavor": "挥下镰刃，收割敌人与血肉。"
+	"REAPER.flavor": "挥下镰刃，收割敌人与血肉。",
+	"DIE_DIE_DIE.title": "死吧死吧死吧",
+	"DIE_DIE_DIE.description": "对所有敌人造成{Damage:diff()}点伤害。",
+	"DIE_DIE_DIE.flavor": ""
 }

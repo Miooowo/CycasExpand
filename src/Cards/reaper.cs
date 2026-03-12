@@ -40,6 +40,5 @@ public sealed class Reaper : CardModel
 	protected override void OnUpgrade()
 	{
 		base.DynamicVars.Damage.UpgradeValueBy(1m);
-		base.EnergyCost.UpgradeBy(-1);
 	}
 }
